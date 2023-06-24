@@ -1,0 +1,15 @@
+ID: 1
+
+Severity: Trivial
+
+Environment: Win 10 Home Chrome 114
+
+Title: Date in "Calendario Economico" not translated on selected  language
+
+Steps: 1. Navigate to capital.com
+       2. Choice language  except EN
+       3. Scroll down to block "Calendario Economico"
+       
+Expected Result: Date in "Calendario Economico"  translated on  selected  language
+
+Actual Result: Date in "Calendario Economico" not translated  on selected  language
