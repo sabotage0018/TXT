@@ -1,0 +1,4 @@
+name: Sanechek
+age: 21
+pets: 0
+Future salary: $2k
