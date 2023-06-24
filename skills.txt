@@ -1,0 +1,4 @@
+1) Terminal
+2) Github
+3) Postman
+4) SQL
